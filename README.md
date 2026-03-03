@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working  <br>🤝 I’m looking to collaborate on beginner-friendly open source projects  <br>🛠 I’m looking for help with improving problem-solving skills  <br>🌱 I’m currently learning   <br>💬 Ask me about  <br>⚡ Fun fact: I enjoy solving logical problems
+<br>🤝 I’m looking to collaborate on beginner-friendly open source projects  <br>🛠 I’m looking for help with improving problem-solving skills  <br>🌱 I’m currently learning   <br>💬 Ask me about  <br>⚡ Fun fact: I enjoy solving logical problems
 
 
 # 💻 Tech Stack:
